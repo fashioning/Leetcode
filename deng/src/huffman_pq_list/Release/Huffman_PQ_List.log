@@ -1,0 +1,40 @@
+﻿生成启动时间为 2015/8/1 1:19:56。
+     1>项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Huffman_PQ_List\Huffman_PQ_List.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\Huffman_PQ_List.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D DSA_HUFFMAN /D DSA_PQ_LIST /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\huffman\huffman_decode.cpp ..\huffman\huffman_encode.cpp ..\huffman\huffman_generateTable.cpp ..\huffman\Huffman_PQ_generateTree.cpp ..\huffman\huffman_PQ_initForest.cpp ..\huffman\Huffman_PQ_Test.cpp ..\huffman\huffman_statistics.cpp ..\prime\primeNLT.cpp ..\UniPrint\print_basic.cpp ..\UniPrint\print_HuffChar.cpp
+         huffman_decode.cpp
+         huffman_encode.cpp
+         huffman_generateTable.cpp
+         Huffman_PQ_generateTree.cpp
+         huffman_PQ_initForest.cpp
+         Huffman_PQ_Test.cpp
+         huffman_statistics.cpp
+         primeNLT.cpp
+         print_basic.cpp
+         print_HuffChar.cpp
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\Huffman_PQ_List.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Huffman_PQ_List.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\Huffman_PQ_List.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\Huffman_PQ_List.lib" /MACHINE:X86 Release\huffman_decode.obj
+         Release\huffman_encode.obj
+         Release\huffman_generateTable.obj
+         Release\Huffman_PQ_generateTree.obj
+         Release\huffman_PQ_initForest.obj
+         Release\Huffman_PQ_Test.obj
+         Release\huffman_statistics.obj
+         Release\primeNLT.obj
+         Release\print_basic.obj
+         Release\print_HuffChar.obj
+         正在生成代码
+         已完成代码的生成
+         Huffman_PQ_List.vcxproj -> C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\Huffman_PQ_List.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\Huffman_PQ_List.exe;#1" /manifest Release\Huffman_PQ_List.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\Huffman_PQ_List.unsuccessfulbuild”。
+         正在对“Release\Huffman_PQ_List.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Huffman_PQ_List\Huffman_PQ_List.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.72

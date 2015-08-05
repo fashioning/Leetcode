@@ -1,0 +1,17 @@
+In recent years, 
+high-speed and high-responsibility photodetectors operated at long-wavelength are required for high-bit-rate and 
+long-haul optical communication systems. Traditional vertical p-i-n photodetectors have shown promising result. 
+However, there is a limitation between quantum efficiency and bandwidth. As higher quantum efficiency needs a 
+thicker absorption layer, the carrier transit time is extended which leads to a decreased bandwidth at the same time.
+Furthermore, the photodiode RC time constant and parasitic capacitance from the periphery of the device has been 
+a severe limitation to the speed of the detector response for the detector with 3dB bandwidth in the high frequency[l]. 
+The design trade-off between quantum efficiency and bandwidth can be alleviated according to the use of drift-enhanced, 
+dual-absorption structure for the long wavelength photodetectors. In the dual-absorption layer photodetector(PD) structure[2],[3]£¬
+the photocurrents generated in both of the absorption regions are combined to increase the responsivity of the photodetector, 
+while the transit time of the carriers remains the same as that of a single absorption photodetector since the carriers are collected separately
+from each absorption region [4]. Meanwhile, this structure can achieve higher quantum efficiency because the absorption length increases.
+In order to further improve its bandwidth, this paper proposes a mushroom-like dual-absorption photodetector.
+According to decrease the diameter of absorption layer largely preserves the transit time limited bandwidth while easing RC limit, 
+since the device capacitance is lowered by without affecting transit time apparently [5]. 
+This paper will discuss response and capacitance characteristics of mushroom PD compared with conventional PD, 
+and then find optimized structure proceed to analysis. 

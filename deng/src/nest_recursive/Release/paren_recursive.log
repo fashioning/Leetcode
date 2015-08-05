@@ -1,0 +1,29 @@
+﻿生成启动时间为 2015/8/1 1:20:44。
+     1>项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\nest_recursive\paren_recursive.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\nest_recursive.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D STACK_ELEM_TYPE_CHAR /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release/" /Fd".\Release/vc100.pdb" /FR"Release\\" /Gd /TP /analyze- /errorReport:prompt display.cpp ..\nest_stack\main.cpp nest.cpp ..\UniPrint\print_basic.cpp
+         display.cpp
+         main.cpp
+         nest.cpp
+         print_basic.cpp
+         正在生成代码...
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\nest_recursive.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\nest_recursive.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:".\Release/paren_recursive.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\nest_recursive.lib" /MACHINE:X86 .\Release/display.obj
+         .\Release/main.obj
+         .\Release/nest.obj
+         .\Release/print_basic.obj
+         paren_recursive.vcxproj -> C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\nest_recursive.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\nest_recursive.exe;#1" /manifest Release\nest_recursive.exe.intermediate.manifest
+       BscMake:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\Release/paren_recursive.bsc" Release\display.sbr Release\main.sbr Release\nest.sbr Release\print_basic.sbr
+       FinalizeBuildStatus:
+         正在删除文件“Release\nest_recursive.unsuccessfulbuild”。
+         正在对“Release\nest_recursive.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\nest_recursive\paren_recursive.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.17

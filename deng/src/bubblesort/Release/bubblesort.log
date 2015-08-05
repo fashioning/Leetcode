@@ -1,0 +1,34 @@
+﻿生成启动时间为 2015/8/1 1:19:36。
+     1>项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\bubblesort\bubblesort.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\bubblesort.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt bubble.cpp bubble1A.cpp bubble1B.cpp bubble2.cpp main.cpp ..\UniPrint\print_int_array.cpp ..\random\Shuffle.cpp
+         bubble.cpp
+         bubble1A.cpp
+         bubble1B.cpp
+         bubble2.cpp
+         main.cpp
+         print_int_array.cpp
+         Shuffle.cpp
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\bubblesort.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\bubblesort.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\bubblesort.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\bubblesort.lib" /MACHINE:X86 Release\bubble.obj
+         Release\bubble1A.obj
+         Release\bubble1B.obj
+         Release\bubble2.obj
+         Release\main.obj
+         Release\print_int_array.obj
+         Release\Shuffle.obj
+         正在生成代码
+         已完成代码的生成
+         bubblesort.vcxproj -> C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\bubblesort.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\bubblesort.exe;#1" /manifest Release\bubblesort.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\bubblesort.unsuccessfulbuild”。
+         正在对“Release\bubblesort.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\bubblesort\bubblesort.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.53

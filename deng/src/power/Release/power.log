@@ -1,0 +1,33 @@
+﻿生成启动时间为 2015/8/1 1:20:50。
+     1>项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\power\power.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\power.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release/" /Fd".\Release/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp Power0.cpp Power1.cpp "Power2-0-I.cpp" "Power2-0-R.cpp" "Power2-1-I.cpp" "Power2-1-R.cpp"
+         main.cpp
+         Power0.cpp
+         Power1.cpp
+         Power2-0-I.cpp
+         Power2-0-R.cpp
+         Power2-1-I.cpp
+         Power2-1-R.cpp
+         正在生成代码...
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\power.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\power.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\power.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\power.lib" /MACHINE:X86 .\Release/main.obj
+         .\Release/Power0.obj
+         .\Release/Power1.obj
+         ".\Release/Power2-0-I.obj"
+         ".\Release/Power2-0-R.obj"
+         ".\Release/Power2-1-I.obj"
+         ".\Release/Power2-1-R.obj"
+         power.vcxproj -> C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\power.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\power.exe;#1" /manifest Release\power.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\power.unsuccessfulbuild”。
+         正在对“Release\power.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\power\power.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.08

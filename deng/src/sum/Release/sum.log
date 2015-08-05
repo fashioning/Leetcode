@@ -1,0 +1,37 @@
+﻿生成启动时间为 2015/8/1 1:20:47。
+     1>项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\sum\sum.vcxproj”在节点 5 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\sum.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release/" /Fd".\Release/vc100.pdb" /FR"Release\\" /Gd /TP /analyze- /errorReport:prompt main.cpp ..\UniPrint\print_int_array.cpp "..\reverse\reverse-iterative-1.cpp" ..\reverse\reverse.cpp ..\random\Shuffle.cpp sum0.cpp sum1.cpp sum2.cpp
+         main.cpp
+         print_int_array.cpp
+         reverse-iterative-1.cpp
+         reverse.cpp
+         Shuffle.cpp
+         sum0.cpp
+         sum1.cpp
+         sum2.cpp
+         正在生成代码...
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\sum.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\sum.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:".\Release/sum.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\sum.lib" /MACHINE:X86 .\Release/main.obj
+         .\Release/print_int_array.obj
+         ".\Release/reverse-iterative-1.obj"
+         .\Release/reverse.obj
+         .\Release/Shuffle.obj
+         .\Release/sum0.obj
+         .\Release/sum1.obj
+         .\Release/sum2.obj
+         sum.vcxproj -> C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\sum.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\Release\sum.exe;#1" /manifest Release\sum.exe.intermediate.manifest
+       BscMake:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\Release/sum.bsc" Release\main.sbr Release\print_int_array.sbr "Release\reverse-iterative-1.sbr" Release\reverse.sbr Release\Shuffle.sbr Release\sum0.sbr Release\sum1.sbr Release\sum2.sbr
+       FinalizeBuildStatus:
+         正在删除文件“Release\sum.unsuccessfulbuild”。
+         正在对“Release\sum.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\charles\Documents\Visual Studio 2010\Projects\deng\src\sum\sum.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.12

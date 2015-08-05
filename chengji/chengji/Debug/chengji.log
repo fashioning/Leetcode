@@ -1,0 +1,45 @@
+﻿生成启动时间为 2015/3/24 16:14:45。
+     1>项目“c:\Users\charles\documents\visual studio 2010\Projects\chengji\chengji\chengji.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\chengji.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "E:\C++\C++从入门到精通\C++从入门到精通(国家863)\Final\ch24\学生成绩管理系统\Control.cpp" "E:\C++\C++从入门到精通\C++从入门到精通(国家863)\Final\ch24\学生成绩管理系统\StdAfx.cpp" "E:\C++\C++从入门到精通\C++从入门到精通(国家863)\Final\ch24\学生成绩管理系统\students.cpp" "E:\C++\C++从入门到精通\C++从入门到精通(国家863)\Final\ch24\学生成绩管理系统\xuejiguanli.cpp"
+         xuejiguanli.cpp
+         students.cpp
+     1>e:\c++\c++从入门到精通\c++从入门到精通(国家863)\final\ch24\学生成绩管理系统\students.cpp(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\c++\c++从入门到精通\c++从入门到精通(国家863)\final\ch24\学生成绩管理系统\students.cpp(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+         StdAfx.cpp
+         Control.cpp
+     1>e:\c++\c++从入门到精通\c++从入门到精通(国家863)\final\ch24\学生成绩管理系统\control.cpp(159): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\c++\c++从入门到精通\c++从入门到精通(国家863)\final\ch24\学生成绩管理系统\control.cpp(160): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+         正在生成代码...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\chengji.exe.embed.manifest.res" Debug\chengji_manifest.rc 
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\charles\documents\visual studio 2010\Projects\chengji\Debug\chengji.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\chengji.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\charles\documents\visual studio 2010\Projects\chengji\Debug\chengji.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\charles\documents\visual studio 2010\Projects\chengji\Debug\chengji.lib" /MACHINE:X86 Debug\chengji.exe.embed.manifest.res
+         Debug\Control.obj
+         Debug\StdAfx.obj
+         Debug\students.obj
+         Debug\xuejiguanli.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\chengji.exe.embed.manifest" /manifest Debug\chengji.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\chengji.exe.embed.manifest.res" Debug\chengji_manifest.rc 
+       LinkEmbedManifest:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\charles\documents\visual studio 2010\Projects\chengji\Debug\chengji.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\chengji.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\charles\documents\visual studio 2010\Projects\chengji\Debug\chengji.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\charles\documents\visual studio 2010\Projects\chengji\Debug\chengji.lib" /MACHINE:X86 Debug\chengji.exe.embed.manifest.res
+         Debug\Control.obj
+         Debug\StdAfx.obj
+         Debug\students.obj
+         Debug\xuejiguanli.obj
+         chengji.vcxproj -> c:\users\charles\documents\visual studio 2010\Projects\chengji\Debug\chengji.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\chengji.unsuccessfulbuild”。
+         正在对“Debug\chengji.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“c:\Users\charles\documents\visual studio 2010\Projects\chengji\chengji\chengji.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.44

@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/4/4 9:17:39。
+     1>项目“c:\Users\charles\documents\visual studio 2010\Projects\mergesort\mergesort.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\mergesort.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\charles\documents\visual studio 2010\Projects\mergesort\Debug\mergesort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mergesort.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\charles\documents\visual studio 2010\Projects\mergesort\Debug\mergesort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\charles\documents\visual studio 2010\Projects\mergesort\Debug\mergesort.lib" /MACHINE:X86 Debug\mergesort.exe.embed.manifest.res
+     1>LINK : error LNK2001: 无法解析的外部符号 _mainCRTStartup
+     1>c:\users\charles\documents\visual studio 2010\Projects\mergesort\Debug\mergesort.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“c:\Users\charles\documents\visual studio 2010\Projects\mergesort\mergesort.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.21
